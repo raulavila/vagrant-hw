@@ -8,7 +8,6 @@
 	<packaging>war</packaging>
 
 	<name>spring-mvc-hw</name>
-	<url>http://maven.apache.org</url>
 
 	<properties>
 		<java.version>1.7</java.version>
